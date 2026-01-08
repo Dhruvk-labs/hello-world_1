@@ -1,3 +1,3 @@
 loop do
-  puts "Banna Tacos!"
+  puts "Banana Tacos!"
 end
